@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/AbdelTrochez/actividad24/static/js/main.8bdab224.chunk.js",
+    "main.js.map": "/AbdelTrochez/actividad24/static/js/main.8bdab224.chunk.js.map",
+    "runtime-main.js": "/AbdelTrochez/actividad24/static/js/runtime-main.98836ca7.js",
+    "runtime-main.js.map": "/AbdelTrochez/actividad24/static/js/runtime-main.98836ca7.js.map",
+    "static/js/2.97baeae6.chunk.js": "/AbdelTrochez/actividad24/static/js/2.97baeae6.chunk.js",
+    "static/js/2.97baeae6.chunk.js.map": "/AbdelTrochez/actividad24/static/js/2.97baeae6.chunk.js.map",
+    "index.html": "/AbdelTrochez/actividad24/index.html",
+    "static/js/2.97baeae6.chunk.js.LICENSE.txt": "/AbdelTrochez/actividad24/static/js/2.97baeae6.chunk.js.LICENSE.txt",
+    "static/media/hanna.2fa88d01.jpg": "/AbdelTrochez/actividad24/static/media/hanna.2fa88d01.jpg",
+    "static/media/html-css.8f143b57.jpg": "/AbdelTrochez/actividad24/static/media/html-css.8f143b57.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98836ca7.js",
+    "static/js/2.97baeae6.chunk.js",
+    "static/js/main.8bdab224.chunk.js"
+  ]
+}
